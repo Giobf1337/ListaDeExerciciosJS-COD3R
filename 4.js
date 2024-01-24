@@ -37,7 +37,7 @@ var num;
 //             return "Nov3mber";
 //             break;
 //         case 12:
-//             return "DEZEMBRO PORRA";
+//             return "DEZEMBRO";
 //             break;
 
 //         default:
